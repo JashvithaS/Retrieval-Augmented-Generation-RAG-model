@@ -1,0 +1,8 @@
+#streamlit
+#langchain
+#faiss-cpu
+#openai
+#tiktoken
+#sentence-transformers
+#chromadb
+#python-dotenv
